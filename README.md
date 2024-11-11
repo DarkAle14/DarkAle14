@@ -20,5 +20,5 @@
 ## 📊 Github Stats
 👨‍💻 C and C++ for now...
 
-![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkAle14&show_icons=true&theme=blue&cachebust=1)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkAle14&layout=compact&theme=blue&cachebust=1)](https://github.com/anuraghazra/github-readme-stats)
+![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkAle14&show_icons=true&theme=dark&cachebust=1)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkAle14&layout=compact&theme=dark&cachebust=1)](https://github.com/anuraghazra/github-readme-stats)
