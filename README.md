@@ -28,4 +28,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkAle14&layout=compact&theme=dark&cachebust=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DarkAle14)](https://github.com/DarkAle14)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DarkAle14&theme=darkhub)](https://github.com/DarkAle14)
