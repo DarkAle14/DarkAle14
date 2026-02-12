@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Alessio (aka DarkAle14)
+# 👋 Hi there, I'm Alessio
 
 ![followers](https://img.shields.io/github/followers/DarkAle14?style=for-the-badge&logo=github&label=Followers)
 ![stars](https://img.shields.io/github/stars/Darkale14?style=for-the-badge&logo=github&label=Stars)
@@ -11,11 +11,6 @@
 </h1>
 
 ![wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4YzlpbGoza3l2emludGN4cnp2ZHYxZjB4N3NxZDJ3dTNjd202MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)
-
-## 💻 About Me
-🏫 I'am student at [I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it/)
-
-💼 Working on [@Abstract-Panthers](https://github.com/Abstract-Panthers) and other projects
 
 ## 🗒️ Curiosity
 - I'm not the best programmer, but I'm learning...
